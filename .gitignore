@@ -1,0 +1,6 @@
+venv/
+random/
+data/
+*.pyc
+*.pyo
+*~

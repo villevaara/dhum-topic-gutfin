@@ -1,0 +1,54 @@
+Tieteenhistoriasta ja tietojenkäsittelytieteen tulevaisuudesta, Denningin, Horganin ja Chaitinin ajatuksia kommentoituna
+
+Johdanto ja tietojenkäsittelytiede muiden tieteenalojen tukena
+
+John Horgan kirjoittaa artikkelissaan The End of Science Revisited, että ihmisen aivojen rajallinen muisti ja tiedonhallinnan kapasiteetti tulee asettamaan rajat tieteelle, vaikkei tiede itsessään asettaisikaan rajoja kehitykselle. Tiedon määrän lisääntyminen aiheuttaa osaltaan sen, että uusien tieteellisten löytöjen teko hidastuu, koska ne vaativat aina vain isompien kokonaisuuden hallintaa.  Horgan kysyykin, että jos hyväksymme tieteen kehittymiselle tietyt rajat, milloin me tulemme ne saavuttamaan. Asia ei ole yksiselitteinen, sillä vaikka esimerkiksi fysiikan ja biologian perussäännöt ovat tällä hetkellä rajalliset, voidaan tieteen tuloksia manipuloida loputtomasti tarkentuen, empiirisen tietomateriaalin sekä teknologian ja erilaisten käytännön sekä tieteellisten sovellusten tarjontaan.
+
+Peter Denning näkee artikkelissaan Is Computer Science Science? tietojenkäsittelytieteen tulevaisuuden tieteenalana joka luo uusia yhteyksiä muihin tieteenaloihin, jolloin syntyy uusia tutkimuksen kohteita ja tieteen ratkaisuja ja probleemia. Hän on omanlaisessaan vastakkainasettelussa tämän takia Horganin teorian tieteen saturaatiopisteen saavuttamisen kanssa, koska tietojenkäsittelytiede kykenee avaamaan uusia aloja ja luomaan tietoa muihin tieteenlajeihin. Myös uuden sukupolven tietojenkäsittelytieteen opiskelijat näyttävät toimivan enemmän luonnontieteen vaatiman hypoteesien varmentamisen kautta omissa tiedeprojekteissaan ja pitävät täten tietojenkäsittelytiedettä oikeana tieteenalana. Tämä ei Denningin mukaan näkynyt aikaisemman sukupolven tietojenkäsittelytieteilijöissä, jotka identifioituivat ennemminkin yhteen tietojenkäsittelytieteen osista, matematiikkaan, muihin luonnontieteisiin tai insinööritaitoon. Tietojenkäsittelytiede ei täten ole tulevaisuudessa enää pelkkä aputiede, vaan saanee varsinaisen itsenäisen tieteenalan aseman koko tiedeyhteisön keskuudessa.
+
+Tietojenkäsittelytieteessä yhdistyvät tiede, insinööritaito ja matematiikka ainutlaatuisella tavalla. Usein eri osa-alueet ovat tieteenteossa aivan tasavertaisessa asemassa keskenään, jolloin tutkijan tulee ne kaikki tulee hallita. Horganin mukaan tietojenkäsittelytieteellä on selvä tehtävä nykyään yhä enemmän muiden tieteenalojen kehityksessä, sillä tietojenkäsittelytieteen kykyä hallita ja laskea valtavaa määrää tietoa voi käyttää hyväkseen  varsinkin aloilla, joilla suuria määriä erityisesti empiiristä tietoa käsitellään ja yhdistellään, kuten monilla yhteiskuntatieteellisillä, biotieteelllisillä ja humanistisilla aloilla.
+
+
+Monitieteisyys on nykyisessä tiedemaailmassa kasvava tapa tehdä tiedettä ja tämä ajatusmalli saattaakin olla se, joka sysää Horganinkin kuuluttamat suuret tieteelliset löydöt uusille urille. Kenties monitieteisyys on se uusi tieteenala-paradigma sitten vaikkapa tämän iänikuisen luonnontieteet - humanistiset tieteet asettelun vierellä. Tietojenkäsittelytiede voidaankin nähdä monitieteisenä tieteenalana itsessään, onhan siinä olennaisena osa-alueena niin tietojenkäsittelytiede, omalla laillaan insinööritaito tietokoneiden muodossa ja matematiikkaa ja logiikkaa aivan sen peruspohjalla. Joka tapauksessa tietojenkäsittelytiede on välineellisessä avainasemassa monitieteisyyden kehittämisessä monitieteisyyden tarvitseman tieteenalojen välisen ristikkäisen analyysin takia, sillä toisiinsa vertailtavan tiedon määrää lisääntyy tieteenalojen välisissä tutkimuksissa luonnollisesti.
+
+
+Horgan, Denning ja tieteenfilosofiset paradigmat
+
+Pessimisti ei pety, sanotaan. John Horganin artikkelin The End of Science Revisited kantava teema on väite tieteen kehityksen merkittävästä hidastumisesta. Horganin tekstistä näyttäisi paistavan läpi pettymys tieteen kehityksen näennäiseen hitauteen. Kirjoittaja tuntuu toivovan ihmeen omaisia läpimurtoja - tieteellisiä mullistuksia, jotka olisivat pikemminkin huomista kuin nykypäivää, tulevaisuutta heti tässä ja nyt. Horgan argumentoi että tieteet, varsinkin luonnontieteet, ovat matkalla kohti yhä yksityiskohtaisempia ja tarkempia malleja, ja että suuret tieteelliset ongelmat on jo ratkaistu. Nykyinen kehitys on näpertelyä, yksityiskohtia, mallien tarkentamista ja monimutkaisuuden kasvattamista. Horganin käsitystä tieteen kehityksestä voisi verrata luvun likiarvon laskemiseen: ajan edetessä saadaan yhä tarkempia tuloksia, edellisten tulosten pohjalta ja pikkuhiljaa edetään kohti yhä tarkempaa kuvausta mallinnettavana olevasta asiasta. Edistyksen ja suurten harppausten mahdollisuuksien suhteen Horgan edustaa siis pessimististä näkemystä.
+
+Vaan olisiko optimisti tässä kuitenkin enemmän oikeassa? Nykyisessä tieteenhistoriassa yksi keskeisistä käsitteistä on Thomas Kuhn teoksessaan The Structure of Scientific Revolutions esittelemä ajatus paradigman murroksesta. Horgan on kirjoittanut aihetta käsittelevän artikkelin, mutta korostaa siinä Kuhnin paradigman käsitteen poliittista ja sosiaalista luonnetta. Horgan keskittyy artikkelissaan kulloinkin vallitsevan paradigman mielivaltaisuuteen suhteessa kaikkiin muihin mahdollisiin paradigmoihin, ja siihen kuinka absoluuttista objektiivista tapaa verrata paradigmoja keskenään ei Kuhnin mukaan ole. Vähemmälle huomiolle jää Horganilla Kuhnin paradigman käsitteen merkitys tieteen uudistumisen prosessille ylipäätään. Sen kautta käsitettynä tieteen suuret harppaukset eivät etene edellä kuvatun tarkentumisen kaltaisen prosessin kautta, vaan pikemminkin hylkäämällä suuri osa aiemmin vallinneista lähtöoletuksista sekä johtopäätöksistä ja tuomalla näiden tilalle koko kenttään uudella tavalla suhtautuva käsittelytapa.
+
+Suuria murroksia on hyvin vaikea tunnistaa niiden tapahtumisen hetkellä. Merkittävät historialliset muutokset ovat osoitettavissa vasta historiallisen etäisyyden päästä. Voi olla että elämme juuri tällä hetkellä tietoteknisen vallankumouksen murroskautta, joka ei sinänsä ole uusi ajatus. Tieteelliset murrokset eivät kuitenkaan tapahdu hetkessä, ainakaan arkisesta aikakäsityksestä käsin tarkasteltuina. Muutaman tuhannen vuoden aikana toteutunut neoliittinen vallankumous oli aikalaisilleen mahdoton havaita. Teollisen vallankumouksen toteutumiseen kului siihenkin useamman sukupolven kattava aika. Tietotekninen vallankumous näyttäisi aiempiin mullistuksiin verrattuna olevan huomattavan nopea, eikä meillä vielä voi olla käsitystä siitä missä vaiheessa tätä murrosta elämme - todellisen kuvan siitä voinee muodostaa vasta seuraavan suuren murroksen kynnyksellä. Kuten Peter Denning toteaa, tietojenkäsittelytiede ja tietotekniikka alkavat yhä vahvemmin olla läsnä lähes jokaisessa tieteessä, sekä niiden sovellusaloilla arjessa. John Horgan voi hyvinkin olla oikeassa käsityksessään tieteen kehityksestä paradigman murrosten välissä. Kiinnostavampi kysymys kuitenkin kuuluu: Mikä tulee olemaan se seuraava paradigman murros jossa kenttä määritellään uudelleen?
+
+
+Chaitin, tulevaisuuden matematiikkaa nykyhetken paradigmalla?
+
+Gregory Chaitinin artikkeli “The Limits of Reason 2015” käsittelee tieteen harjoittamista ja teorioiden todenmukaisuutta. Hän pyrkii todistamaan että matematiikassa ei voi olla olemassa “kaiken teoriaa” (Theory of Everything). Teorian avulla voitaisiin todistaa väitteitä joiden esittäminen ja todentaminen matematiikan tavoin olisi mahdotonta. Chaitinin teksti pohjautuu ajatukseen Gödelin epätäydellisyysteoriasta, jonka ydin liittyy siihen, että on olemassa teorioita, joita ei voida todistaa.
+
+
+Chaitinin mukaan Matemaattinen tiede perustuu vahvasti todistuksiin ja todentamiseen. 
+Tekstissä käydään läpi myös Turingin kone, johon liittyy pysähtymisen ongelma.  Turing loi aikanaan matemaattisen mallin ohjelmoitavalle digitaaliselle tietokoneelle ja esitti voidaanko päätellä pysähtyykö ohjelma ikinä? Tämä kysymys on Turingin ajatuksen ydin. Tähän mennessä ei ole voitu ratkaista pysähtyykö kone koskaan, joka johtaa kysymykseen mahdollisuudesta olla matemaattisia teorioita, joita ei voi todistaa ja täten kääntyy takaisin Gödelin epätäydellisyysteoriaan.
+
+Kokeellisen tieteen tavoin voidaan tietenkin saada selville pysähtyykö ohjelma, tosin tähän kuluvaa aikaa ei voida määritellä, eikä täten voida sanoa onko tapa mielekäs. Tällöin kysymys ratkaistaan suorittamalla koe ja analysoimalla kyseisiä tuloksia.  Turingin pysähtymisen ongelmaan ei kuitenkaan ole yleistä ratkaisua mahdollista saada aikaan päättelyllä ja tämä johtaa Omega käsitykseen, eli Turingin ongelman ratkaisemattomuuteen.
+
+Chaitin vertaa myös matemaattista ja fysiikan tiedettä toisiinsa. Perinteisen ajatusmallin mukaan matematiikka ja fysiikka eroavat paljon. Fysiikka kuvaa maailmankaikkeutta ja on riippuva kokeista ja havainnoista ja luo teoriansa empiiristen havaintojen perusteella. Fysiikalle riittää tarpeeksi tarkat approksimaatiot, jotta voidaan sanoa tuloksen ja teorian olevan totta. Matematiikka on toisaalta omalla tavallaan taas itsenäinen maailmakaikkeudesta. Tulokset ja paradigmat kuten lukujen ominaisuudet, esimerkiksi kokonaisluvut tai reaaliluvut eivät ole kiinni olemassaolossa, tai maailmankaikkeudesta, jossa olemme.
+
+Chaitin jaottelee kuitenkin nämä eri tieteenalat hyvin samanlaisiksi.  Fysiikan
+tutkimuksissa ja muissa empiirisissä tieteissä tutkijat tiivistävät kokeelliset
+tuloksensa vallitseviin tieteen lakeihin. Tämän jälkeen todistetaan omat
+johtopäätökset tieteen lait tukemassa havaintoja. Matematiikassa toimitaan
+joskus myös samoin, matemaatikot tiivistävät omia laskennalliset kokemukset matemaattisiin aksiomiin ja esittävät johtopäätökset perustuen näihin lähtöoletuksiin. 
+
+Lopulta Chaitinilta saa sellaisen kuvan, että modernin matematiikan tulisi harkita omaa aksioomiin perustuvaa vahvaa todistelun paradigmaansa uudestaan ja ottaa mallia fysiikan approksimaatioiden riittävyydestä matematiikan kehityksen ylläpitämiseksi. Tämä voisi avata uusia ovia mahdottomina pidettyjen probleemien käsittelyyn ja myös suuren olemassaolevan laskennallisen tietomäärän hyväksikäyttöön ongelmanratkaisussa ja matemaattisten päättelyketjujen varmentamisessa. Tähän tietomäärän analysointiin on taas tietojenkäsittelytieteellä tarjota välineitä tulevaisuuteen.
+
+LÄHTEET:
+
+Chaitin, G. The Limits of Reason. Scientific American, Vol. 294 Issue 3.
+
+Denning, P J. Is Computer Science Science? Communications of the ACM, Vol. 48, s. 27-31. 2004.
+
+Horgan, J. ‘Profile: Reluctant Revolutionary: Thomas S. Kuhn Unleashed 'Paradigm' on the World’. Scientific American. May 1991.
+
+Horgan, J. The End of Science Revisited. IEEE Computer, s. 37-43. 2004
+
+Kuhn, T. The Structure of Scientific Revolutions. Chicago. 1962.
