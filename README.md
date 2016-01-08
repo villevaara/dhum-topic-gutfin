@@ -28,6 +28,17 @@ Usage
 5. add a plaintext file to make queries agains the "database" created in previous step. The file should be placed in gutenbergparser/queryfiles/
 6. modify and run pgfin_query.py to get query results. The default queryfile is queryfile.txt, a text found in the corpus.
 
+Results from running pgfin_query.py should look something like this:
+```
+    Getting closest hits for queryfile: ./queryfiles/queryfile.txt ...
+
+Dante: Jumalainen näytelmä: Helvetti (96%)
+Dante: Jumalainen näytelmä: Kiirastuli (92%)
+Dante: Jumalainen näytelmä I-III (90%)
+Johann Wolfgang von Goethe: Runoelmia (87%)
+Eino Leino: Juhana Herttuan ja Catharina Jagellonican lauluja (86%)
+```
+
 
 Further development?
 --------------------
