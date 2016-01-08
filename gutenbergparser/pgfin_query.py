@@ -21,9 +21,9 @@ id2word_pgfin = gensim.corpora.Dictionary.load('./data/pgfin.dictionary')
 tfidf_model = gensim.models.TfidfModel.load('./data/tfidf_pgfin.model')
 lsi_model = gensim.models.LsiModel.load('./data/lsi_pgfin.model')
 indexfile = ('./data/ta_index.txt')
-# queryfile = './queryfiles/queryfile.txt'  # text in corpus
+queryfile = './queryfiles/queryfile.txt'  # text in corpus
 # queryfile = './queryfiles/45vuotta.txt'  # Film review
-queryfile = './queryfiles/tktjohdessee2.txt'  # Ancient essay
+# queryfile = './queryfiles/tktjohdessee2.txt'  # Ancient essay
 
 # check similarity
 
