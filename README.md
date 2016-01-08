@@ -21,15 +21,12 @@ Sourcefile is a dump from Project Gutenberg database, 1246 literature fulltexts 
 
 Usage
 -----
-1) Create a Python 2.7 virtualenv
-2) pip install requirements.txt
-3) download sourcefile from https://www.hightail.com/download/ZWJXWmdveDNKV05MWE1UQw
-   and save in gutenberparser/data/ -directory
-4) Run pgfin_main_datagenerator.py to parse tarfile, and generate topics and indices.
-   ^^^ or run clean_and_savemm.py, pgfin_lsi_analysis.py, pgfin_index.py, in that order
-5) add a plaintext file to make queries agains the "database" created in previous step.
-   the file should be placed in gutenbergparser/queryfiles/
-6) modify and run pgfin_query.py to get query results. The default queryfile is queryfile.txt, a text found in the corpus.
+1. Create a Python 2.7 virtualenv
+2. pip install requirements.txt
+3. download sourcefile from https://www.hightail.com/download/ZWJXWmdveDNKV05MWE1UQw and save in gutenberparser/data/ -directory
+4. Run pgfin_main_datagenerator.py to parse tarfile, and generate topics and indices, or run clean_and_savemm.py, pgfin_lsi_analysis.py, pgfin_index.py, in that order.
+5. add a plaintext file to make queries agains the "database" created in previous step. The file should be placed in gutenbergparser/queryfiles/
+6. modify and run pgfin_query.py to get query results. The default queryfile is queryfile.txt, a text found in the corpus.
 
 
 Further development?
