@@ -54,3 +54,5 @@ Thoughts
 --------
 
 The tool currently doesn't have a real use, but creating it served as a good way to learn basics of topic modeling in Python. The basic concept seems somewhat sound: a query with a text of Dante's return other texts by him as closest matches, so at least some similarity is reflected in the method. Further testing and refinement would of course be needed to actually verify the method.
+
+It can be used as a toy for finding the closest literary style to your own writing. A friend was amused to find out that her film review was written in the spirit of Huckleberry Finn. The method could probably be developed to automatically decipher literary genres from texts. It could also be used as a tool suggesting intertextual influences.
