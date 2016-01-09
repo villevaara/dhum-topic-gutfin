@@ -1,5 +1,6 @@
 # dhum-topic-gutfin
-Digital Humanities course work. Project Gutenberg Finnish texts with topic modelling.
+Digital Humanities course work for a course in Autumn of 2015. Project Gutenberg Finnish texts with topic modelling.
+More info on the study program at http://blogs.helsinki.fi/mstolone/
 
 What does it do?
 ----------------
