@@ -46,7 +46,7 @@ Further development?
 
 The state of the project is currently somewhere around proof-of-concept / alpha. Next steps in development would be:
 
-* code rewrite & restructuring (currently messy & slow)
+* code rewrite & restructuring (currently a pile of messy & slow copy&paste code)
 * creating a light webapp frontend for making queries
 * deep reflections on actual use for the script/app
 
