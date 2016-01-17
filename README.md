@@ -24,7 +24,7 @@ Usage
 -----
 1. Create a Python 2.7 virtualenv
 2. pip install requirements.txt
-3. download source data file from https://www.hightail.com/download/ZWJWSXQxaTF6NE04RmNUQw and save in gutenberparser/data/ -directory. (pg-fin-utf8.tar.gz 144.6MB)
+3. download source data file from https://goo.gl/JPYZAa and save in gutenberparser/data/ -directory. (pg-fin-utf8.tar.gz 144.6MB)
 4. Run pgfin_main_datagenerator.py to parse tarfile, and generate topics and indices, or run clean_and_savemm.py, pgfin_lsi_analysis.py, pgfin_index.py, in that order.
 5. add a plaintext file to make queries agains the "database" created in previous step. The file should be placed in gutenbergparser/queryfiles/
 6. modify and run pgfin_query.py to get query results. The default queryfile is queryfile.txt, a text found in the corpus. The variable name is 'queryfile', on line #24 in the code.
